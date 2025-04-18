@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    justify-content: flex-end;
+    gap: 25px;
+}
+#name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    color: darkcyan;
+    margin-top: 25px;
+    margin-left: 85px;
+}
